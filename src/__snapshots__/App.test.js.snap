@@ -1,0 +1,126 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App snapshots 1`] = `null`;
+
+exports[`Button snapshots 1`] = `
+<div
+  className="search"
+>
+  <form>
+    <fieldset>
+      <div
+        className="form-group"
+      >
+        <input
+          className="form-control"
+          placeholder="Search Hacker News..."
+          type="text"
+        />
+      </div>
+    </fieldset>
+  </form>
+</div>
+`;
+
+exports[`News snapshots 1`] = `
+Array [
+  <div
+    className="card my-4"
+  >
+    <div
+      className="card-body"
+    >
+      <h5
+        className="card-title"
+      >
+        <a>
+          1
+        </a>
+      </h5>
+      <h6
+        className="card-subtitle mb-2 text-muted"
+      >
+        1
+      </h6>
+      <span
+        className="card-link"
+      >
+        1
+      </span>
+      <span
+        className="card-link"
+      >
+        2
+      </span>
+      <button
+        className="btn btn-sm btn-danger"
+        onClick={[Function]}
+        type="button"
+      >
+        <i
+          className="fas fa-trash"
+        />
+      </button>
+    </div>
+  </div>,
+  <div
+    className="card my-4"
+  >
+    <div
+      className="card-body"
+    >
+      <h5
+        className="card-title"
+      >
+        <a>
+          2
+        </a>
+      </h5>
+      <h6
+        className="card-subtitle mb-2 text-muted"
+      >
+        2
+      </h6>
+      <span
+        className="card-link"
+      >
+        1
+      </span>
+      <span
+        className="card-link"
+      >
+        2
+      </span>
+      <button
+        className="btn btn-sm btn-danger"
+        onClick={[Function]}
+        type="button"
+      >
+        <i
+          className="fas fa-trash"
+        />
+      </button>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Search snapshots 1`] = `
+<div
+  className="search"
+>
+  <form>
+    <fieldset>
+      <div
+        className="form-group"
+      >
+        <input
+          className="form-control"
+          placeholder="Search Hacker News..."
+          type="text"
+        />
+      </div>
+    </fieldset>
+  </form>
+</div>
+`;
